@@ -1,4 +1,3 @@
-Primeiro passo:
 ## Passos para identificar os interruptores das lâmpadas
 
 1. Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
